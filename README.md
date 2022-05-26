@@ -1,6 +1,6 @@
 ### Hello! ###
 
-My name is Shahil Patel, and I'm a Computer Science and Statistics Double Major at Rutgers University. I'm currently seeking internships for Fall/Winter 2022 or Spring/Summer 2023 in Software Engineering or other CS related roles. If you think I'd be a good fit for your company, please feel free to reach out to me by email or social media. Thanks!
+My name is Shahil Patel, and I'm a Computer Science and Statistics Double Major at Rutgers University. I'm currently seeking internships for Fall/Winter 2022 or Spring/Summer 2023 in Software Engineering or other CS related roles. If you think I'd be a good fit for your company, please feel free to reach out to me by email or social media. Thanks! Also check me out at Check me out at https://shahil-patel.github.io/portfolio 
 
 Here are some places I've worked at (or will work at)
  - [Rutgers AI Research:](https://aresty.rutgers.edu/) I will be a Research Assistant during the 2022-2023 Rutgers school year - I will be working with Professor Xiang Liu on using Artificial Intelligence for Next-Generation Intelligent Transportation Systems
