@@ -1,12 +1,14 @@
 ### Hello! ###
 
-My name is Shahil Patel, and I'm a Computer Science major at Rutgers University. I'm currently seeking full time roles in Software Engineering or other CS-related roles. If you think I'd be a good fit for your company, please feel free to reach out to me by email or social media. Thanks! Also check me out at https://shahil-patel.github.io/portfolio 
+Hello! My name is Shahil, and I'm a Software Engineer with a B.S in Computer Science from Rutgers University - New Brunswick. I am currently a Software Engineer at Epic Games, the video game and software developer and publisher based in Cary, North Carolina. I also have experience and expertise from: Merck and Co., Raymond James Financial, and Rutgers' ML Research.
 
-Here are some places I've worked at (or will work at)
- - [Epic Games:](https://www.epicgames.com/site/en-US/home) I am currently an intern at Epic Games during the Summer of 2023 - I am working with Epic Games' SecDev team utilizing Python, Golang and AWS as a Software Engineering Intern
- - [Rutgers AI Research:](https://aresty.rutgers.edu/) I am a Research Assistant during the 2022-2023 Rutgers school year - I am working with Professor Xiang Liu on using Artificial Intelligence for Next-Generation Intelligent Transportation Systems
- - [Merck:](https://www.merck.com/) I interned as a SWE intern at the Pharmaceutical company Merck during the Summer of 2022 - I worked part of the Precision Technology Group of Merck's Animal Health Division.
- - [Raymond James:](https://www.raymondjames.com/) I interned as a Data Science intern at the Investment Bank Raymond James during the Summer of 2021 - I worked as part of the Seiler Group focusing on Portfolio and Market Analysis
+Feel free to send me a message through LinkedIn or email me at shahilp@gmail.com also check me out at https://shahil-patel.github.io/portfolio 
+
+Here are some places I've worked at:
+ - [Epic Games:](https://www.epicgames.com/site/en-US/home) I am currently a Software Engineer at Epic Games, (was an intern during the Summer of 2023) - I am working with Epic Games' SecDev/SEA team 
+ - [Rutgers ML Research:](https://cait.rutgers.edu/) I worked as a Research Assistant during from September 2022 to January 2024 - I worked with Professor Xiang Liu on using Artificial Intelligence for Next-Generation Intelligent Transportation Systems
+ - [Merck:](https://www.merck.com/) I interned as a Software Engineer intern at the Pharmaceutical company Merck during the Summer of 2022 - I worked with the Precision Technology Group of Merck's Animal Health Division.
+ - [Raymond James:](https://www.raymondjames.com/) I interned as a Technology Analyst intern at the Investment Bank Raymond James during the Summer of 2021 - I worked with the Seiler Group focusing on Portfolio and Market Analysis
 
 I've primarily used Java, Python, R, C, and C# throughout my internships and university and am familiar with many tools and technologies such as Android Studio and Unity. I am a motivated individual who can quickly learn and apply brand-new concepts. I also have strong technical and analytical skills, and am able to apply lessons learned efficiently with a facility for building positive relationships.  
 
