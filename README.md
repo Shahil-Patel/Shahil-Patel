@@ -10,7 +10,5 @@ Here are some places I've worked at:
  - [Merck:](https://www.merck.com/) I interned as a Software Engineer intern at the Pharmaceutical company Merck during the Summer of 2022 - I worked with the Precision Technology Group of Merck's Animal Health Division.
  - [Raymond James:](https://www.raymondjames.com/) I interned as a Technology Analyst intern at the Investment Bank Raymond James during the Summer of 2021 - I worked with the Seiler Group focusing on Portfolio and Market Analysis
 
-I've primarily used Java, Python, R, C, and C# throughout my internships and university and am familiar with many tools and technologies such as Android Studio and Unity. I am a motivated individual who can quickly learn and apply brand-new concepts. I also have strong technical and analytical skills, and am able to apply lessons learned efficiently with a facility for building positive relationships.  
-
 <a href="mailto:shahilp@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/shahil-patel/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
